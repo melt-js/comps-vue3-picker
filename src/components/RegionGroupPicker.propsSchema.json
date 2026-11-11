@@ -1,0 +1,10 @@
+[
+  {"name":"option","type":"object","description":"行政区划树或扁平列表的数据与字段配置","default":{},"required":false,"version":"","isEvent":false,"bindable":true,"value":{}},
+  {"name":"modelValue","type":"object","description":"province/city/area/town 层级值对象","default":null,"required":false,"version":"","isEvent":false,"bindable":true,"value":null},
+  {"name":"inline","type":"boolean","description":"直接展示分组面板，而不是使用下拉触发器","default":false,"required":false,"version":"","isEvent":false,"bindable":true,"value":false},
+  {"name":"disabled","type":"boolean","description":"是否禁用","default":false,"required":false,"version":"","isEvent":false,"bindable":true,"value":false},
+  {"name":"placeholder","type":"string","description":"下拉触发器占位文字","default":"请选择行政区划","required":false,"version":"","isEvent":false,"bindable":true,"value":"请选择行政区划"},
+  {"name":"header","type":"string","description":"未选择时的面板标题","default":"行政区划","required":false,"version":"","isEvent":false,"bindable":true,"value":"行政区划"},
+  {"name":"separator","type":"string","description":"区域名称连接符","default":"","required":false,"version":"","isEvent":false,"bindable":true,"value":""},
+  {"name":"levelLabels","type":"array","description":"分组层级标签","default":["省/直辖市","市","区/县","乡/镇/街道"],"required":false,"version":"","isEvent":false,"bindable":true,"value":["省/直辖市","市","区/县","乡/镇/街道"]}
+]
