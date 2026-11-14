@@ -3,5 +3,6 @@
   "name": "@melt-js/comps-vue3-picker",
   "version": "2026.11.14",
   "publicUrl": "https://melt-js.github.io/comps-vue3-picker/hel_dist",
+  "homePage": "/comps-vue3-picker/hel_dist",
   "remotes": {}
 }

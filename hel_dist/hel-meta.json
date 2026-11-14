@@ -6,7 +6,7 @@
     "online_version": "2026.11.14",
     "build_version": "2026.11.14",
     "platform": "unpkg",
-    "create_at": "2026-11-14T13:45:33.921Z"
+    "create_at": "2026-11-14T15:47:14.866Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
@@ -15,20 +15,18 @@
     "sub_app_version": "comps-vue3-picker@2026.11.14",
     "version_tag": "2026.11.14",
     "src_map": {
-      "webDirPath": "https://melt-js.github.io/comps-vue3-picker/hel_dist",
-      "htmlIndexSrc": "https://melt-js.github.io/comps-vue3-picker/hel_dist/index.html",
+      "webDirPath": "/comps-vue3-picker/hel_dist",
+      "htmlIndexSrc": "/comps-vue3-picker/hel_dist/index.html",
       "extractMode": "all",
       "iframeSrc": "",
       "chunkCssSrcList": [
-        "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/style-Ch6INglD.css",
-        "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/style-Ch6INglD.css"
+        "/comps-vue3-picker/hel_dist/assets/style-Ch6INglD.css"
       ],
       "chunkJsSrcList": [
-        "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/index-BYDT50Zg.js",
-        "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/index-BYDT50Zg.js",
-        "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/shared-runtime-C_FkE3gh.js",
-        "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/vendor-BVWpG3rM.js",
-        "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/__uno-ksIEhl2Y.js"
+        "/comps-vue3-picker/hel_dist/assets/index-DEh2qt6l.js",
+        "/comps-vue3-picker/hel_dist/assets/shared-runtime-C_FkE3gh.js",
+        "/comps-vue3-picker/hel_dist/assets/vendor-BVWpG3rM.js",
+        "/comps-vue3-picker/hel_dist/assets/__uno-CeBeAbtb.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -48,7 +46,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/index-BYDT50Zg.js",
+            "src": "/comps-vue3-picker/hel_dist/assets/index-DEh2qt6l.js",
             "type": "module",
             "crossorigin": ""
           }
@@ -57,7 +55,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/__uno-ksIEhl2Y.js",
+            "href": "/comps-vue3-picker/hel_dist/assets/__uno-CeBeAbtb.js",
             "rel": "modulepreload",
             "crossorigin": ""
           }
@@ -66,7 +64,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/vendor-BVWpG3rM.js",
+            "href": "/comps-vue3-picker/hel_dist/assets/vendor-BVWpG3rM.js",
             "rel": "modulepreload",
             "crossorigin": ""
           }
@@ -75,7 +73,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/shared-runtime-C_FkE3gh.js",
+            "href": "/comps-vue3-picker/hel_dist/assets/shared-runtime-C_FkE3gh.js",
             "rel": "modulepreload",
             "crossorigin": ""
           }
@@ -84,7 +82,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/style-Ch6INglD.css",
+            "href": "/comps-vue3-picker/hel_dist/assets/style-Ch6INglD.css",
             "rel": "stylesheet",
             "crossorigin": ""
           }
@@ -92,16 +90,16 @@
       ],
       "bodyAssetList": [],
       "otherSrcList": [
-        "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/index-BYDT50Zg.js.gz",
-        "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/style-Ch6INglD.css.gz",
-        "https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/vendor-BVWpG3rM.js.gz",
-        "https://melt-js.github.io/comps-vue3-picker/hel_dist/index.html"
+        "/comps-vue3-picker/hel_dist/assets/index-DEh2qt6l.js.gz",
+        "/comps-vue3-picker/hel_dist/assets/style-Ch6INglD.css.gz",
+        "/comps-vue3-picker/hel_dist/assets/vendor-BVWpG3rM.js.gz",
+        "/comps-vue3-picker/hel_dist/index.html"
       ],
       "srvModSrcList": [],
       "srvModSrcIndex": ""
     },
-    "html_content": "<!doctype html>\r\n<html lang=\"zh-CN\">\r\n  <head>\r\n    <meta charset=\"UTF-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n    <title>comps-vue3-picker</title>\r\n    <!-- 远程宿主会注入自己的 Vue；独立打开开发页时由此提供运行时。 -->\r\n    <script data-helappend=\"0\" src=\"https://unpkg.com/vue@3.5.44/dist/vue.global.js\"></script>\r\n    <script type=\"module\" crossorigin src=\"https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/index-BYDT50Zg.js\"></script>\n    <link rel=\"modulepreload\" crossorigin href=\"https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/__uno-ksIEhl2Y.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/vendor-BVWpG3rM.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/shared-runtime-C_FkE3gh.js\">\n    <link rel=\"stylesheet\" crossorigin href=\"https://melt-js.github.io/comps-vue3-picker/hel_dist/assets/style-Ch6INglD.css\">\n  </head>\r\n  <body>\r\n    <div id=\"app\"></div>\r\r\n  </body>\r\n</html>\r\n",
-    "create_at": "2026-11-14T13:45:33.921Z",
+    "html_content": "<!doctype html>\r\n<html lang=\"zh-CN\">\r\n  <head>\r\n    <meta charset=\"UTF-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n    <title>comps-vue3-picker</title>\r\n    <!-- 远程宿主会注入自己的 Vue；独立打开开发页时由此提供运行时。 -->\r\n    <script data-helappend=\"0\" src=\"https://unpkg.com/vue@3.5.44/dist/vue.global.js\"></script>\r\n    <script type=\"module\" crossorigin src=\"/comps-vue3-picker/hel_dist/assets/index-DEh2qt6l.js\"></script>\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-picker/hel_dist/assets/__uno-CeBeAbtb.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-picker/hel_dist/assets/vendor-BVWpG3rM.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-picker/hel_dist/assets/shared-runtime-C_FkE3gh.js\">\n    <link rel=\"stylesheet\" crossorigin href=\"/comps-vue3-picker/hel_dist/assets/style-Ch6INglD.css\">\n  </head>\r\n  <body>\r\n    <div id=\"app\"></div>\r\r\n  </body>\r\n</html>\r\n",
+    "create_at": "2026-11-14T15:47:14.866Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }
