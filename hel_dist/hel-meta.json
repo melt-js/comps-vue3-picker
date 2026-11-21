@@ -6,7 +6,7 @@
     "online_version": "2026.11.16-1",
     "build_version": "2026.11.16-1",
     "platform": "unpkg",
-    "create_at": "2026-11-20T17:13:19.805Z"
+    "create_at": "2026-11-21T05:35:33.133Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
@@ -98,7 +98,7 @@
       "srvModSrcIndex": ""
     },
     "html_content": "<!doctype html>\n<html lang=\"zh-CN\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>comps-vue3-picker</title>\n    <!-- 远程宿主会注入自己的 Vue；独立打开开发页时由此提供运行时。 -->\n    <script data-helappend=\"0\" src=\"https://unpkg.com/vue@3.5.44/dist/vue.global.js\"></script>\n    <script type=\"module\" crossorigin src=\"/comps-vue3-picker/hel_dist/assets/index-DR3vbO70.js\"></script>\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-picker/hel_dist/assets/preload-helper-CyDrHcMm.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-picker/hel_dist/assets/vendor-Dgk8SOGf.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"/comps-vue3-picker/hel_dist/assets/shared-runtime-Cry4pJF5.js\">\n    <link rel=\"stylesheet\" crossorigin href=\"/comps-vue3-picker/hel_dist/assets/style-DY1eUbYd.css\">\n  </head>\n  <body>\n    <div id=\"comps-vue3-picker-demo\"></div>\n  </body>\n</html>\n",
-    "create_at": "2026-11-20T17:13:19.805Z",
+    "create_at": "2026-11-21T05:35:33.133Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }
